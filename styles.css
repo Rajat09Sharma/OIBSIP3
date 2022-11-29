@@ -1,0 +1,49 @@
+body {
+    background-color: #8D9EFF; 
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2{
+    text-align: center;
+    margin: 30px;
+}
+
+label {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 10px;
+
+}    
+
+.box{
+    background-color: #ffff;
+    width:75%;
+    padding: 50px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+
+.data-box{
+    padding: 3px;
+    margin: 10px;
+    border: 1px solid;
+}
+
+button{
+    margin-bottom: 16px;
+    margin-left: 40px;
+}
+
+.radio-cel{
+    margin-left: 30px;
+}
+
+.radio-fah{
+    margin-left: 30px;
+}
